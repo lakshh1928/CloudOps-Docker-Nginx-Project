@@ -108,7 +108,7 @@ A short demo video showing:
 * Nginx reverse proxy configuration
 * GitHub repository structure
 
-( Demo link will be added here )
+Link - https://drive.google.com/file/d/1kcUm66MU5IryroMdVJXUGn0g9MqF3Wg7/view?usp=sharing
 
 ---
 
